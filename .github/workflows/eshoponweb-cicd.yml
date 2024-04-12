@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 038d7a85-ef8c-4ef7-b7b7-e12098fcf81f
-  WEBAPP-NAME: eshoponweb-webapp-Aldair
+  WEBAPP-NAME: eshoponweb-webapp-Aldair1
 
 
 jobs:
